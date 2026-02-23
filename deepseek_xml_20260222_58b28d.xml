@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<registroVuelos>
+    <vuelo>
+        <codigo>AV123</codigo>
+        <origen>Ciudad de México</origen>
+        <destino>Madrid</destino>
+        <duracion>11</duracion>
+        <aerolinea>Avianca</aerolinea>
+    </vuelo>
+    
+    <vuelo>
+        <codigo>IB456</codigo>
+        <origen>Madrid</origen>
+        <destino>Buenos Aires</destino>
+        <duracion>13</duracion>
+        <aerolinea>Iberia</aerolinea>
+    </vuelo>
+    
+    <vuelo>
+        <codigo>AM789</codigo>
+        <origen>Ciudad de México</origen>
+        <destino>Cancún</destino>
+        <duracion>3</duracion>
+        <aerolinea>Aeroméxico</aerolinea>
+    </vuelo>
+    
+    <vuelo>
+        <codigo>IB321</codigo>
+        <origen>Barcelona</origen>
+        <destino>Londres</destino>
+        <duracion>2</duracion>
+        <aerolinea>Iberia</aerolinea>
+    </vuelo>
+    
+    <vuelo>
+        <codigo>AV654</codigo>
+        <origen>Bogotá</origen>
+        <destino>Lima</destino>
+        <duracion>4</duracion>
+        <aerolinea>Avianca</aerolinea>
+    </vuelo>
+</registroVuelos>
